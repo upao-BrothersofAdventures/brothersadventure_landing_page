@@ -496,6 +496,11 @@ header .container {
   margin-top: 30px;
 }
 
+.hero-section .big-title h1,
+.hero-section .text {
+  color: white; /* Cambia el color del texto a blanco */
+}
+
 .hero-section .showcase-area {
   display: flex;
   flex-direction: column;
